@@ -3,7 +3,7 @@
  * description: A lot of adjective.
  * homepage: https://github.com/afeiship/next-const-adjective
  * version: 1.0.0
- * date: 2020-11-20 11:10:29
+ * date: 2020-11-20 11:11:06
  * license: MIT
  */
 
