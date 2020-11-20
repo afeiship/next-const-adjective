@@ -1,15 +1,15 @@
 /*!
- * name: @feizheng/next-const-adjective
+ * name: @jswork/next-const-adjective
  * description: A lot of adjective.
  * homepage: https://github.com/afeiship/next-const-adjective
  * version: 1.0.0
- * date: 2020-09-07T10:26:08.205Z
+ * date: 2020-11-20 11:10:29
  * license: MIT
  */
 
 (function () {
   var global = global || this || window || Function('return this')();
-  var nx = global.nx || require('@feizheng/next-js-core2');
+  var nx = global.nx || require('@jswork/next');
 
   nx.constAdjective = [
     '温柔',
